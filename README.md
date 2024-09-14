@@ -1,4 +1,4 @@
-# QPSK modulation
+# AM-SS-I modulation
 project title (RO): _Sistem digital de telecomunicație utilizând modulația MA-BLU-I*_  
 project title (EN): _Digital telecommunications system using AM-SS-I* modulation_  
 *MA-BLU-I = Modulație în Amplitudine - Bandă Laterală Unică - banda Inferioară  
